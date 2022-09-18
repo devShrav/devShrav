@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shravan (@devShrav)
-- 👀 I’m interested in Web Development
+- 👀 I’m a web developer
 - 🌱 I’m currently learning MERN full stack web development
-- 📫 How to reach me devshrav@gmail.com
+- 📫 How to reach me: devshrav@gmail.com
 
 <!---
 devShrav/devShrav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
