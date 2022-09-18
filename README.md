@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @devShrav
+- 👋 Hi, I’m Shravan (@devShrav)
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on OpenSource projects
+- 🌱 I’m currently learning MERN full stack web development
 - 📫 How to reach me devshrav@gmail.com
 
 <!---
