@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shravan (@devShrav)
-- 👀 I’m a web developer
-- 🌱 I’m currently learning MERN full stack web development
+- 👀 I’m a tech enthusiast
+- 🌱 I’m currently dabbling with devOps
 - 📫 How to reach me: devshrav@gmail.com
 
 <!---
